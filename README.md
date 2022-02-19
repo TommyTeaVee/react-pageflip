@@ -173,13 +173,3 @@ For example - flipping to the next page:
 
 ### Contacts
 
-Oleg,
-
-<oleg.litovski9@gmail.com>
-
-https://github.com/Nodlik/react-pageflip
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
-
-[buymeacoffee]: https://www.buymeacoffee.com/nndlik
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
